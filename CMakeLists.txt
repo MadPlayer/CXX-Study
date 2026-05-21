@@ -8,3 +8,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 find_package(Boost 1.84 REQUIRED)
 
 add_subdirectory(Describe)
+add_subdirectory(Asio)
